@@ -1,0 +1,9 @@
+.feedback {
+    text-align: center;
+
+}
+
+.feedback__title {
+    color: green;
+    font-size: 48px;
+}
